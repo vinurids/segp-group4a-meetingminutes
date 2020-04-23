@@ -1,5 +1,6 @@
 # segp-group4a-meetingminutes
 G52GRP Final Group Report 
+
 Project Title: AutoBoard 
 Group: 4a
 
