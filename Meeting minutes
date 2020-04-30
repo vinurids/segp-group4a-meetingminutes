@@ -1,0 +1,517 @@
+[Software Engineering Group Project]
+Group 4a
+Meeting Minutes
+By: Vinuri De Silva
+
+Appendix 
+------------------------------------------------------------------------------------------------
+
+1. 	
+Meeting: Meeting Client/Supervisor 
+Date:  02/10/2019 
+Time:  15:00 pm 
+Venue: BB70 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None  
+  
+Meeting Agenda:  
+First meeting with project supervisor/client. 
+Introduced teammates and discussed the project scope. 
+We were given three project options and asked to pick an option 1 and 2. 
+Asked to write a proposal for said options with our view on how each project can be done and the list of hardware needed. 
+  
+Notes: 
+Option 1) 
+Career portal for the campus career advisory service. This will operate in a standard manner similar to other web portals that allow the user to display forms, put up ads, show campus events, etc. 
+  
+Option2) 
+An electronic signboard that can be manipulated wirelessly via smartphone. It will also can display relevant information from the client’s outlook calendar.   
+  
+Option 3) 
+A web portal that allows the analysis of medical images. Allows the user to upload medical imagery/scans and will use image processing to figure out the patients’ complications.  
+  
+Meeting adjourned at: 15:30 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+2. 	
+Meeting: Group Meeting 
+Date:  03/10/2019 
+Time:  14:00 pm 
+Venue:  GC09 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None  
+  
+Meeting Agenda:  
+Review of the obtained during the client meeting and chose an option 1 and 2. 
+Conducted research on the hardware needed and implementation method for each project.  
+Drafted a proposal with our choices. 
+  
+Notes: 
+Option 1 – Electronic Signboard   
+Option 2 – Career service web portal 
+  
+Meeting adjourned at: 15:50 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+3. 	
+Meeting: Meeting Client/Supervisor  
+Date:  15/10/2019 
+Time:  16:20 pm 
+Venue: BB70 
+ 
+Attendees Present:   Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None  
+  
+Meeting Agenda:  
+Discussed the options we chose and the reasons for it. 
+Discussed the execution method for option 1 (the electronic signboard) in detail.  
+  
+Notes:  
+Client requirements for the electronic signboard project: 
+•	Project needs to be flexible (upgradable, expandable) 
+•	Completely editable from a website/laptop 
+•	Some features available via phone  
+•	Able to display articles, have a constant feed. 
+•	Camera on screen to check who is waiting (optional) 
+•	Screen would be mounted on the door, covering only part of the window.  
+•	Option to completely override the screen. 
+  
+ Meeting adjourned at:  17:00 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+4. 	
+Meeting: Meeting Client/Supervisor 
+Date: 16/10/2019 
+Time:  15:00 pm    
+Venue: BB70 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None  
+  
+Meeting Agenda:  
+We were given the signboard project. 
+Discussed hardware requirements and prices in detail. 
+Discussed the Project Description report submission and divided work among the members. 
+ 
+Action Items: 
+    Section 1. Project Title and Overview - Hui Xing 
+    Section 2. Purpose and Need - Mandy 
+    Section 3. Costs - Ali 
+    Section 4. Implementation Method - Ali 
+    Section 5. Timeline - Daffa 
+    Section 6. Requirements - Vinuri 
+    Section 7. Expected Outcomes - Darrell 
+ 
+Meeting adjourned at:  16:00pm 
+ 
+------------------------------------------------------------------------------------------------
+
+5. 	
+Meeting: Group Meeting 
+Date:  17/10/2019 
+Time:  11:00 am 
+Venue: GC18 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None  
+  
+Meeting Agenda:  
+Discussing and filling up the Ethics form. 
+Dividing the work among teammates for the project description.  
+  
+Action Items: 
+Ethics form and Project Description was completed. 
+  
+Notes: 
+The Project Description and ethics form was submitted on the 22nd of October by the group leader.  
+  
+Meeting adjourned at:  13:00 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+6. 	Meeting: Group Meeting 
+Date:  24/10/2019 
+Time:  11:00 am 
+Venue: GC09 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun  
+Absent:   
+Lim Hui Xing 
+  
+Meeting Agenda:  
+Conduct research on: 
+•	Most suitable Raspberry pi OS that would work best with our project. 
+•	Should boot automatically with the program 
+•	Automatically connects to a WIFI network and reestablishes all connections to the server 
+•	Most suitable programming language or the project. 
+•	Creating a working program/website that sends data to the raspberry pi  
+•	Creating a client program for the raspberry pi that receives the data 
+•	Where and how to display information on the screen 
+•	Merge two display screens into a singular long display  
+  
+Low fidelity prototype 
+Make a functional website. 
+Learn how to use GitHub.  
+  
+Notes: 
+Next meeting scheduled on the 31st of October.  
+  
+Meeting adjourned at:  11:40 am 
+ 
+------------------------------------------------------------------------------------------------
+
+7. 	
+Meeting: Meeting Client/Supervisor 
+Date:  31/10/2019 
+Time:  12:10 pm 
+Venue: BB70 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None 
+  
+Meeting Agenda:  
+Detailed discussion of the parts needed for the project and their prices. 
+Ability to utilize out project’s hardware for other projects in order to increase cost efficiency. 
+Examining alternative options for the initial prototype (working without a TFT display?)  
+Ask the electronic engineering department for the housing unit for the display screen. 
+Discussing the acquisition of a raspberry pi, so that we can start working on the code. 
+Requirement specification: what is the software used in this project? 
+Re-establishing a timeline to have a working low fidelity prototype by the end of December. 
+Have a skeleton of the overall design of the project by the 4th of November. 
+Show how different parts of the system will relate to each other and the flow of information.  
+Break the development phase into smaller tasks (track the time, resources and each individual work of members). 
+Have a safety buffer for the timeline planning. (i.e. finish before the given/official deadline) 
+  
+Notes: 
+Next client meeting scheduled for 8th November. 
+  
+Meeting adjourned at:  13:00 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+8. 	
+Meeting: Group Meeting 
+Date:  5/11/2019 
+Time:  12:15 pm 
+Venue: GA12 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None 
+  
+Meeting Agenda:  
+Creating a software instead of a website, which will act as a foundation for the website. 
+Client side and server side will be done separately by the members. 
+Creating 2 flowchart for the project design. (client and server) 
+The application on the raspberry pi will have the following options: 
+•	receiving updating, displaying, booting the application 
+The application on the website would be concerned with sending data to the raspberry pi.  
+Website vs Application discussion. 
+•	A software would be more flexible compared to a website. 
+•	Software would provide more features (background display, more widgets) 
+•	Ability to setup widgets for: clock, timed events, connecting to outlook 
+•	Drag and drop for design 
+Programming language for software development. (Java) 
+Breaking down and discussing each part of the client software and its design in detail with charts.  
+  
+Action Items: 
+Drawing the skeleton of the software design – Ali 
+Flowchart of the application for server and client-side functions - Mandy 
+Individual research on creating software using java programming – Mandy, Vinuri, Hui Xing  
+How to receive information using raspberry pi – Ali, Daffa, Darrell  
+ 
+Meeting adjourned at:  13:00 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+9. 	
+Meeting: Meeting Client/Supervisor 
+Date:  08/11/2019 
+Time:  12:10 pm 
+Venue: BB70 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Widanage Vinuri De Silva, Darrell Yap Jia Jun  
+Absent:   
+Lim Hui Xing, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir  
+  
+Meeting Agenda:  
+Updated the client on the timeline changes. 
+Explaining the roles of the sender/receiver teams. 
+Explained the flowchart depicting the overall flow of the system. 
+Deadline for the functional prototype: 6-9th December.  
+                        (establish a very simple communication) 
+Review of the Software VS website options.  
+ 
+Action Items: 
+The idea of creating a software was scrapped and we reverted to the initial plan of just creating website and mobile app. 
+Be clearer than we are in assigning tasks. I.e. individual tasks. 
+The screen given in the project proposal doesn’t have a controller. Find a new screen with one. 
+ 
+Notes: 
+In the flowchart: Changing pre-sets are not detailed. 
+  
+Meeting adjourned at:  12:30 pm 
+ 
+------------------------------------------------------------------------------------------------
+
+10.	
+Meeting:  Group Meeting 
+Date:  12/11/2019 
+Time:  12:45pm 
+Venue: GC09 
+  
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+Absent:  None 
+  
+Meeting Agenda:  
+Discussed the previous meeting with the client. 
+                        - individual tasks 
+                        - deadline for prototype 
+                        - No local server 
+                        - Mobile app will be done next semester 
+Discussed progress so far on website 
+             
+Action items: 
+Creating GitHub accounts. 
+Work on interim report before next meeting 
+Work on prototype. 
+            Basic display and widgets – Ali and Daffa 
+            Log in page - Darrell 
+            Outlook Calendar options - Mandy 
+            Edit page properties - Hui Xing 
+            Upload images/text option, Edit page layout - Vinuri 
+   
+Meeting adjourned at:  13:10pm 
+
+------------------------------------------------------------------------------------------------
+
+11.	
+Meeting:  Group Meeting 
+Date:  02/12/2019 
+Time:  11:25am 
+Venue: Vetro C 
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva 
+Absent:  Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+  
+Meeting Agenda:  
+Conducted a discussion on current prototype. How to implement it without the necessary hardware. Decided to use an emulator by installing the raspberry pi software in it. 
+Discussed an alternative for the log in page as we need to create a database for the current one. 
+How to host the website online. 
+Interim Report discussion: Methodology used for the project is agile and not waterfall.  
+                                                Finish the report by tonight. (2nd December) 
+Add a feature to adjust the size of the screen in the website. 
+        
+Action items:  
+Individual submission of the peer assessment form. 
+
+   
+Meeting adjourned at:  11:40am 
+
+------------------------------------------------------------------------------------------------
+
+12.	
+Meeting:  Meeting Client/Supervisor 
+Date:   5/12/2019
+Time:  11:50 am
+Venue:  BB70
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+Absent:  None
+  
+Meeting Agenda:  
+Update the client on the current website prototype. Namely the clock, change background colour, adding messages and images, and date and time, delete features.
+Client informed us that we can use a RPI emulator as a substitute for the actual hardware.  
+Discussion on how the various parts of the project will communicate with each other. (PRI doesn’t have to get all that data from the website, make the RPI an active client and not a terminal, consider back-end to front-end communication, will the RPI  communicate with different media, what protocols will be used)
+      
+Action items:  
+N/A 
+   
+Meeting adjourned at: 12:05 pm
+
+------------------------------------------------------------------------------------------------
+
+13. 	
+Meeting:  Group meeting
+Date:   12/02/2020
+Time:  12:40 am
+Venue: DA08
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+Absent:  None
+
+Meeting Agenda: 
+Allocation of work  
+Discussion on the remaining system components (Figure out how the RPI will receive data, is the data going to be sent as an image or script file)
+Distributing parts of the final report.
+
+Action items:  
+N/A 
+
+Meeting adjourned at: 12:55 pm
+
+------------------------------------------------------------------------------------------------
+
+14.	
+Meeting:  Meeting Client/Supervisor 
+Date:   17/02/2020
+Time:  14:30 pm
+Venue:  BB70
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+Absent:  None
+
+Meeting Agenda: 
+Protocols for the RPI were decided
+Some of the similar projects found online didn’t work on the emulator and as a result testing has come to a halt. 
+Discussion about the languages used for designing the app (unity, android nougat, barebones, C sharp) and  figuring out the placements of the app.
+Discussion of error faced when trying to sync the Outlook Calendar data with the website. Rather than synching the information look into extracting data from it.( have options for displaying where the user is and locked personal information etc) 
+The Calendar data should automatically update itself(look into plugins)
+User Requirements: Time and  date available, 
+                                     Split screen into parts or have full screen option, 
+                                     Ability to control design (Change background color, flashing text),
+                                     ***FLEXIBILITY IS IMPORTANT
+
+Marking scheme for the report not on Moodle.
+Links between different parts of the project should work by now
+RPI should be the one compiling the display, the structure of the layout is done on the website and then transferred in whatever format. 
+Use more percentage than actual value, add properties as long as the information is readable(border color etc.) and the source of information. 
+What is going to be coming from the website what is coming from RPI and other sources, how they’ll all interact how much communication takes place
+RPI is mostly standalone until the moment it will receive data regarding a change.
+The screen doesn’t need to be directly driven by website or app
+
+Action Items: Have the update design, have the components and how they communicate with each other by next week.
+
+Notes: Received the required hardware for the project (Raspberry Pi and Display Screen)
+Next meeting scheduled for Wednesday 26th of February at 2:30
+
+Meeting adjourned at: 15:05 pm
+
+------------------------------------------------------------------------------------------------
+
+15.	
+Meeting:  Group meeting
+Date:   26/02/2020
+Time:  12:40
+Venue: DA08
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Darrell Yap Jia Jun 
+Absent:  Ali Khaer el Seed Bashir
+
+Meeting Agenda:
+Discussion of how the overall system will work and what changes need to be made the website to incorporate these changes.
+The website will serve as a UI, i.e. the calendar and clock features will need to be removed.
+New proposal: screen mirror the website and display instead of making an app
+Preparing for client meeting.
+Make a design diagram showing communication flow between website, raspberry pi, server.
+
+Meeting adjourned at: 12:50 pm
+ 
+------------------------------------------------------------------------------------------------
+
+16. 	
+Meeting:  Meeting Client/Supervisor 
+Date:   26/02/2020
+Time:  14:30 pm
+Venue: BB70
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Darrell Yap Jia Jun 
+Absent:  Ali Khaer el Seed Bashir, Lim Hui Xing
+
+Meeting Agenda: 
+App or webpage doesn’t matter as long Raspberry Pi gets data in real time without having to refresh. 
+Having a website would be more flexible as long as its dynamic.
+
+
+Notes: Next meeting scheduled for the 2nd  of March at 1:00 pm
+             Have the design diagram ready by the next meeting
+
+Meeting adjourned at: 14:50 pm
+
+------------------------------------------------------------------------------------------------
+
+17.	
+Meeting:  Meeting Client/Supervisor 
+Date:   02/03/2020
+Time:  13:00 pm
+Venue: BB70
+ 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Lim Hui Xing
+
+Absent:  Ali Khaer el Seed Bashir, Darrell Yap Jia Jun
+
+Meeting Agenda:
+Presented the design diagram of the whole system and explained how each component works and communicates with each other.
+Discussed individual task of the group members
+The current diagram doesn’t integrate mobile accessibility. 
+If the current website is made to be more flexible and mobile friendly then developing a mobile application will not be necessary.
+Since the app will handle most of the functional components the final output displayed on the screen may be different compared to what is seen on the website
+Showed the back end of the website. The image upload option only works from a local host. Will not be applicable once the website is online. Need to work on this.
+Discussion of the current project progress vs the timeline.
+The tentative deadline for the software system is the 1st of April.
+
+
+Notes:
+When writing the report justify technical actions taken during the project. (Ex: why are we producing a  JSON file for the website output)
+
+Meeting adjourned at: 13:30 pm
+
+------------------------------------------------------------------------------------------------
+
+18.	
+Meeting:  Meeting Client/Supervisor 
+Date:   26/03/2020
+Time:  15:30 pm
+Venue: Microsoft Teams
+
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+Absent:  None
+
+Meeting Agenda:
+Discussion of progress Report.
+Demonstration of the app.
+Justifying the season why group was divided into software team and report team.
+Discussing the making of a new website with more flexible CSS. 
+Allocation of work.
+
+Action Items:
+Send a video to supervisor by the following Monday display the working raspberry pi.
+
+Meeting adjourned at: 16:00 pm
+
+------------------------------------------------------------------------------------------------
+
+19.	Meeting:  Meeting Client/Supervisor 
+Date:   15/04/2020
+Time:  13:00 pm
+Venue: Microsoft Teams
+
+Meeting Agenda:
+Discussion of progress Report.
+Progress of the Report.
+Individual tasks of group members
+Discuss the upcoming software demo and presenation.
+
+Meeting adjourned at: 13:30 pm
+------------------------------------------------------------------------------------------------
