@@ -3,7 +3,7 @@ Group 4a
 Meeting Minutes
 By: Vinuri De Silva
 
-Appendix 
+
 ------------------------------------------------------------------------------------------------
 
 1. 	
@@ -135,9 +135,8 @@ Notes:
 The Project Description and ethics form was submitted on the 22nd of October by the group leader.  
   
 Meeting adjourned at:  13:00 pm 
- 
 ------------------------------------------------------------------------------------------------
-
+ 
 6. 	
 Meeting: Group Meeting 
 Date:  24/10/2019 
@@ -407,7 +406,27 @@ Meeting adjourned at: 15:05 pm
 
 ------------------------------------------------------------------------------------------------
 
-15.	
+15. 	
+Meeting:  Group meeting
+Date:   17/02/2020
+Time:  21:45
+Venue: Skype
+
+Attendees Present:
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Darrell Yap Jia Jun, Ali Khaer el Seed Bashir
+Absent: 
+
+Meeting Agenda:
+Discussion of individual Task.
+Mandy: Implementing Outlook Calendar
+Vinuri: Establishing mercury server
+Ali & Daffa: Progress of the app
+
+Meeting adjourned at: 22:00 pm
+
+------------------------------------------------------------------------------------------------
+
+16.	
 Meeting:  Group meeting
 Date:   26/02/2020
 Time:  12:40
@@ -428,7 +447,7 @@ Meeting adjourned at: 12:50 pm
  
 ------------------------------------------------------------------------------------------------
 
-16. 	
+17. 	
 Meeting:  Meeting Client/Supervisor 
 Date:   26/02/2020
 Time:  14:30 pm
@@ -450,7 +469,7 @@ Meeting adjourned at: 14:50 pm
 
 ------------------------------------------------------------------------------------------------
 
-17.	
+18.	
 Meeting:  Meeting Client/Supervisor 
 Date:   02/03/2020
 Time:  13:00 pm
@@ -477,9 +496,10 @@ When writing the report justify technical actions taken during the project. (Ex:
 
 Meeting adjourned at: 13:30 pm
 
+
 ------------------------------------------------------------------------------------------------
 
-18.	
+19.	
 Meeting:  Meeting Client/Supervisor 
 Date:   26/03/2020
 Time:  15:30 pm
@@ -503,22 +523,52 @@ Meeting adjourned at: 16:00 pm
 
 ------------------------------------------------------------------------------------------------
 
-19.	
+20.	
 Meeting:  Meeting Client/Supervisor 
 Date:   15/04/2020
 Time:  13:00 pm
 Venue: Microsoft Teams
 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+Absent:  None
+
 Meeting Agenda:
 Discussion of progress Report.
-Progress of the Report.
+         -  app is able to run settings from json file.
+         -  RSS feed widget on app is functioning.
+         -  App is able to check for updates while settings are displayed. 
+         -  Database is online 
+         -  The UI of website’s edit page has been improved to allow mobile devices.
+
 Individual tasks of group members
-Discuss the upcoming software demo and presenation.
+Discuss the upcoming software demo and presentation.
 
 Meeting adjourned at: 13:30 pm
+
 ------------------------------------------------------------------------------------------------
 
-20.	
+21.	
+Meeting:  Meeting Client/Supervisor 
+Date:   22/04/2020
+Time:  13:25 pm
+Venue: Microsoft Teams
+
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Lim Hui Xing,  Mandy Loi Ming Ni, Ali Khaer el Seed Bashir
+Absent: Widanage Vinuri De Silva, Darrell Yap Jia Jun 
+
+Meeting Agenda:
+Discussion of progress Report.
+Individual tasks of members
+Brief description of how the app is progressing and how the communication with the raspberry pi.
+Problem encountered trying to implement the calendar widget 
+
+Meeting adjourned at: 13:40 pm
+
+------------------------------------------------------------------------------------------------
+
+22.	
 Meeting:  Group Meeting 
 Date:   30/04/2020
 Time:  21:30 pm
@@ -532,13 +582,14 @@ Meeting Agenda:
 Discussion of progress of current progress and the remaining work
 Clarifying the various components of the system
 Allocation of work to members
+Discussing problems related to producing the json file 
 Assigning work for the software demo and presentation.
 
 Meeting adjourned at: 23:00 pm
 
 ------------------------------------------------------------------------------------------------
 
-21.	
+23.	
 Meeting:  Group Meeting 
 Date:   03/05/2020
 Time:  16:00 pm
@@ -550,8 +601,24 @@ Absent:  None
 
 Meeting Agenda: 
 Practice run for the presentation and demo.
+Recorded a video of the presentation.
 
 Meeting adjourned at: 17:30 pm
 
 ------------------------------------------------------------------------------------------------
+24.
+Meeting:  Group Meeting 
+Date:   04/05/2020
+Time:  9:00 am
+Venue: Microsoft Teams
 
+Attendees Present:      
+Muhammad Daffa Fadhlurrohman, Widanage Vinuri De Silva, Mandy Loi Ming Ni, Ali Khaer el Seed Bashir, Darrell Yap Jia Jun 
+Absent:  None
+
+Meeting Agenda: 
+Practice run for the presentation and demo.
+
+Meeting adjourned at: 9:50 am
+
+------------------------------------------------------------------------------------------------
